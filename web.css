@@ -1,0 +1,17 @@
+.h-center{
+	text-align:center;
+	background-color:black;
+	color:white
+	}
+.main-heading{
+	color : white;
+	font-size : 22px;
+	font-weight : bold;
+	font-family : caveat;
+	text-decoration : underline;
+	}
+.paragraph{
+	color : white;
+	text-align:leftwards;
+	background-color:black;
+}
